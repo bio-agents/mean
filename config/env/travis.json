@@ -1,27 +1,3 @@
-{
-    "db": "mongodb://localhost/mean-travis",
-    "port": 3001,
-    "app": {
-        "name": "MEAN - A Modern Stack - Test on travis"
-    },
-    "facebook": {
-        "clientID": "APP_ID",
-        "clientSecret": "APP_SECRET",
-        "callbackURL": "http://localhost:3000/auth/facebook/callback"
-    },
-    "twitter": {
-        "clientID": "CONSUMER_KEY",
-        "clientSecret": "CONSUMER_SECRET",
-        "callbackURL": "http://localhost:3000/auth/twitter/callback"
-    },
-    "github": {
-        "clientID": "APP_ID",
-        "clientSecret": "APP_SECRET",
-        "callbackURL": "http://localhost:3000/auth/github/callback"
-    },
-    "google": {
-        "clientID": "APP_ID",
-        "clientSecret": "APP_SECRET",
-        "callbackURL": "http://localhost:3000/auth/google/callback"
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1045c150ea10e67fa476d41f90d882be923f3e9009a08e5c2207128b6ebe2db7
+size 795

@@ -1,16 +1,3 @@
-{
-  "name": "mean",
-  "version": "0.1.0",
-  "dependencies": {
-    "bootstrap": "2.3.2",
-    "angular": "1.0.6",
-    "angular-resource": "1.0.6",
-    "angular-cookies": "1.0.6",
-    "angular-bootstrap": "0.6.0",
-    "angular-ui-utils": "0.0.4",
-    "angular-mocks": "~1.0.8"
-  },
-  "resolutions": {
-    "angular": "1.0.6"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0ecabff774d336f4f9ea6daa1206018ea267b2207808ed946fe3d6312d3ca0
+size 327
